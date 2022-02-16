@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3959889c-f67b-341d-7c34-26557e31a5dc
 ---
@@ -117,7 +120,7 @@ Chapters 11 and 12
 
 Lefkowitz, Robert J, and Erin J Whalen. "β-Arrestins: Traffic Cops of Cell Signaling." _Current Opinion in Cell Biology_ 16 (2004): 162-168.
 
-Shenoy, Sudha K., Patricia H. McDonald, Trudy A. Kohout, et al. "Regulation of Receptor Fate by Ubiquitination of Activated β2 -Adrenergic Receptor and β-Arrestin." _Science_ 294, no. 9 (November 2001): 1307-1313.
+Shenoy, Sudha K., Patricia H. McDonald, Trudy A. Kohout, et al. "Regulation of Receptor Fate by Ubiquitination of Activated β{{< sub "2" >}} -Adrenergic Receptor and β-Arrestin." _Science_ 294, no. 9 (November 2001): 1307-1313.
 
 Gilman, Alfred G. "G Proteins and Regulation of Adenylyl Cyclase." _Bioscience Reports_ 15, no. 2 (April 1995): 65-97.
 
@@ -258,7 +261,7 @@ Stevens, Charles F. "Neurotransmitter Release at Central Synapses." _Neuron_ 40 
 
 Yoshihara, Motojiro, Bill Adolfsen, and Troy J. Littleton. "Is Synaptotagmin the Calcium Sensor?" _Current Opinion in Neurobiology_ 13 (2003): 315-323.
 
-Koh, Tong-Wey Koh, and Hugo J. Bellen. "Synaptotagmin I, a Ca2+ sensor for Neurotransmitter Release." _TRENDS in Neurosciences_ 26, no. 8 (August 2003): 413-422.
+Koh, Tong-Wey Koh, and Hugo J. Bellen. "Synaptotagmin I, a Ca{{< sup "2+" >}} sensor for Neurotransmitter Release." _TRENDS in Neurosciences_ 26, no. 8 (August 2003): 413-422.
 
 
 {{< tdclose >}}
