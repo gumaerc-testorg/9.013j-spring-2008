@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, a list of optional
+  texts, and the calendar of reading assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ Textbook
 
 Levitan, Irwin B., and Leonard K. Kaczmarek. _The Neuron: Cell & Molecular Biology_. 3rd ed. New York, NY: Oxford University Press, 2001. ISBN: 9780195145236.
 
-List of optional texts ([PDF]({{< baseurl >}}/resources/suggested_texts))
+List of optional texts ({{% resource_link dac00d51-814f-6e87-bac4-6fe99fa9d748 "PDF" %}})
 
 Calendar of Reading Assignments
 -------------------------------

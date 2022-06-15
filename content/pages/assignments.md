@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on presentation assignments for the
+  course, including a list of topics and papers used for each session.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -45,7 +47,7 @@ None
 Ion channels II
 {{< tdclose >}}
 {{< tdopen >}}
-Doyle, Declan A., J. M. Cabral, R. A. Pfuetzner, et al. "The Structure of the Potassium Channel: Molecular Basis of K{{< sup "+" >}} Conduction and Selectivity." _Science_ 280 (April 3, 1998): 69-77.
+Doyle, Declan A., J. M. Cabral, R. A. Pfuetzner, et al. "The Structure of the Potassium Channel: Molecular Basis of K{{< sup "\+" >}} Conduction and Selectivity." _Science_ 280 (April 3, 1998): 69-77.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +266,7 @@ Gulledge, Allan T., and Greg J. Stuart. "Excitatory Actions of GABA in the Corte
 Hodgkin and Huxley (lecture 1)
 {{< tdclose >}}
 {{< tdopen >}}
-Long, Stephen B., Xiao Tao, Ernest B. Campbell, and Roderick MacKinnon. "Atomic Structure of a Voltage-dependent K{{< sup "+" >}} Channel in a Lipid Membrane-like Environment." _Nature_ 450 (November 15, 2007).
+Long, Stephen B., Xiao Tao, Ernest B. Campbell, and Roderick MacKinnon. "Atomic Structure of a Voltage-dependent K{{< sup "\+" >}} Channel in a Lipid Membrane-like Environment." _Nature_ 450 (November 15, 2007).
 {{< tdclose >}}
 
 {{< trclose >}}
