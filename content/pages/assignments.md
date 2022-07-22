@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on presentation assignments for the
+  course, including a list of topics and papers used for each session.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3d4c7213-ca3e-c955-a109-a831196e5f5e
 ---
@@ -42,7 +47,7 @@ None
 Ion channels II
 {{< tdclose >}}
 {{< tdopen >}}
-Doyle, Declan A., J. M. Cabral, R. A. Pfuetzner, et al. "The Structure of the Potassium Channel: Molecular Basis of K+ Conduction and Selectivity." _Science_ 280 (April 3, 1998): 69-77.
+Doyle, Declan A., J. M. Cabral, R. A. Pfuetzner, et al. "The Structure of the Potassium Channel: Molecular Basis of K{{< sup "\+" >}} Conduction and Selectivity." _Science_ 280 (April 3, 1998): 69-77.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ He, Li, Jamie Fong, Mark von Zastrow, and Jennifer L. Whistler. "Regulation of O
 Introduction; basics of electrophysiology
 {{< tdclose >}}
 {{< tdopen >}}
-Mayer, Mark L., Gary L. Westbrook, and Peter B. Guthrie. "Voltage-dependent Block by Mg2+ of NMDA Responses in Spinal Cord Neurons." _Nature_ 309 (May 17, 1984): 261-263.
+Mayer, Mark L., Gary L. Westbrook, and Peter B. Guthrie. "Voltage-dependent Block by Mg{{< sup "2+" >}} of NMDA Responses in Spinal Cord Neurons." _Nature_ 309 (May 17, 1984): 261-263.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +266,7 @@ Gulledge, Allan T., and Greg J. Stuart. "Excitatory Actions of GABA in the Corte
 Hodgkin and Huxley (lecture 1)
 {{< tdclose >}}
 {{< tdopen >}}
-Long, Stephen B., Xiao Tao, Ernest B. Campbell, and Roderick MacKinnon. "Atomic Structure of a Voltage-dependent K+ Channel in a Lipid Membrane-like Environment." _Nature_ 450 (November 15, 2007).
+Long, Stephen B., Xiao Tao, Ernest B. Campbell, and Roderick MacKinnon. "Atomic Structure of a Voltage-dependent K{{< sup "\+" >}} Channel in a Lipid Membrane-like Environment." _Nature_ 450 (November 15, 2007).
 {{< tdclose >}}
 
 {{< trclose >}}
