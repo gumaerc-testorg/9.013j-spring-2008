@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Rotating gif of images related to neurobiology
@@ -20,4 +21,3 @@ Image 1. Ion channel model.
 Image 2. Cultured hippocampal neuron illuminated by GFP fluorescence, functional synaptic terminals labeled with FM4-64.
 Image 3. Retinal axon projections in a 48 hour old zebrafish embryo.
 (Images courtesy of Nathan Wilson.)
-
