@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: List of optional readings on cell and molecular neurobiology.
-file: /ol-ocw-studio-app/courses/9-013j-cell-and-molecular-neurobiology-spring-2008/dac00d51814f6e87bac46fe99fa9d748_suggested_texts.pdf
+file: /courses/9-013j-cell-and-molecular-neurobiology-spring-2008/dac00d51814f6e87bac46fe99fa9d748_suggested_texts.pdf
 file_size: 23901
 file_type: application/pdf
 learning_resource_types:
