@@ -4,7 +4,7 @@ description: "Image 1. Ion channel model.\r\nImage 2. Cultured hippocampal neuro
   \ illuminated by GFP fluorescence, functional synaptic terminals labeled with FM4-64.\r\
   \nImage 3. Retinal axon projections in a 48 hour old zebrafish embryo.\r\n(Images\
   \ courtesy of Nathan Wilson.)"
-file: /courses/9-013j-cell-and-molecular-neurobiology-spring-2008/0b768dcfec1de310d121dae008df3ffc_chp_nathan.gif
+file: /ol-ocw-studio-app/courses/9-013j-cell-and-molecular-neurobiology-spring-2008/0b768dcfec1de310d121dae008df3ffc_chp_nathan.gif
 file_size: 180164
 file_type: image/gif
 image_metadata:
